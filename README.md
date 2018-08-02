@@ -36,7 +36,7 @@ Everyone is encouraged to make a PR or issue to add an address or URL to the lis
 
     - Some add'l notes on specific files are below. Please skim if you don't know what the fields are.
 
-6. Scroll to the bottom. under "Commit changes" enter a reason you are making this change.
+6. Scroll to the bottom. under "Commit changes" enter the reason you are making this change.
 
     - Example: *"Adding myetherscam.com to darklist. See [link to tweet / reddit post / screenshot]."*
 
@@ -44,7 +44,7 @@ Everyone is encouraged to make a PR or issue to add an address or URL to the lis
 
 7. Click the green "Propose File change" button.
 
-8. This next page is a review of what you did. Proofread and stuff.
+8. This next page is a review of what you did. Proofread, etc.
 
 9. Click the "Create Pull Request" button.....twice.
 
@@ -60,7 +60,7 @@ Everyone is encouraged to make a PR or issue to add an address or URL to the lis
 
 -  **Purpose**: A list of addresses that deserve to be accompanied by a warning.
 -  **Example**:
-    -  Fake twitter handle ShiftShape is DMing telling people to send ETH to `0x1234...` for discount.
+    -  Fake twitter handle ShiftShape is DMing people, telling them to send ETH to `0x1234...` for discount.
     -  VitalikBooty DMs you a link telling you to enter your private key in order to 2FA your wallet.
 -  **Not for:**
     -  Tracking addresses of phishers or scammers.
